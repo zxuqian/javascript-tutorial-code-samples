@@ -6,8 +6,8 @@
 
 [Bilibili 传送门](https://www.bilibili.com/video/av87847392/)
 
-# 课程目录
+# 课程大纲
 
-<img src="./course-content.png" alt="课程大纲" />
+![课程大纲](./course-content.png)
 
 现已更新完第二章。
